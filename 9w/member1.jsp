@@ -19,6 +19,6 @@
       <div id="div3">
         <label id="id31" for="id32">전화</label>
         <%= request.getParameter("sPhone")%></div>
-      <div id="div4">
+      <div id="div4"></div></form></section>
     <footer><p>&copy; 20XX Made by Korea. All rights reserved.</p></footer></body></html>
                                   
