@@ -9,6 +9,7 @@
 
 .intro_bg{
     background-image:url("a.jpg");
+    width:1920px;
     height:100%vh;
 }
 .header{
