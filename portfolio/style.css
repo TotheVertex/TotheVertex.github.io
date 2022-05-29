@@ -10,7 +10,7 @@
 .intro_bg{
     background-image:url("a.jpg");
     height:100vh;
-    position: fixed;
+    overflow-x:hidden;
 }
 .header{
     display:flex;
