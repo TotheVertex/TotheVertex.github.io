@@ -52,3 +52,14 @@
 .nav > li > a {
     color:#fff;
 }
+.intro_text{
+    width:100%;
+    margin: 150px auto 150px auto;
+    text-align:center;
+}
+h1{
+    font-size:48px;
+}
+.intro_text > h1{
+    color:#fff;
+}
