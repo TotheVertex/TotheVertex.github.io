@@ -5,7 +5,10 @@
     margin: 0px;
     padding:0px;
     color:#000;
-    overflow-x: hidden;
+}
+html, body {
+max-width: 100%;
+overflow-x: hidden;
 }
 .header{
     background:#75C3CF;
