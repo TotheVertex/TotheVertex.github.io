@@ -5,13 +5,14 @@
     margin: 0px;
     padding:0px;
     color:#000;
-    
+    overflow:auto;
 }
 .header{
     background:#75C3CF;
     width:1920px;
     margin:auto;
     height:86px;
+    
 }
 .header1{
   display:flex;
