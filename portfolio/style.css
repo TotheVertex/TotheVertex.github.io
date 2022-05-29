@@ -5,18 +5,19 @@
     margin: 0px;
     padding:0px;
     color:#000;
+    
 }
-.header1{
+.header{
     background:#75C3CF;
     width:1920px;
     margin:auto;
     height:86px;
 }
-h1{
-    font-size:48px;
-}
-h4{
-    font-size:20px;
+.header1{
+  display:flex;
+  width:1280px;
+  margin:auto;
+  height:86px;
 }
 .searchArea{
     width:300px;
@@ -57,8 +58,13 @@ h4{
     width:100%;
     margin: 115px auto 115px 320px;
 }
-
-.intro_text >h1,
+h1{
+    font-size:48px;
+}
+h4{
+  font-size:20px;
+}
+.intro_text > h1,
 .intro_text > h4{
     color:#000;
 }
