@@ -9,7 +9,7 @@
 .intro_bg{
     background-image:url("a.jpg");
     width:100%;
-    height:718px;
+    height:100%;
 }
 .header{
     display:flex;
