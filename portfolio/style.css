@@ -29,12 +29,12 @@
     width:250px;
     height:40px;
     background:rgba(0,0,0,0.0);
-    color:#fff;
+    color:#000;
     padding-left:10px;
 }
 .searchArea > form > span{
     width:50px;
-    color:rgb(0,0,0);
+    color:#fff;
     font-weight:bold;
     cursor:pointer;
 
@@ -42,8 +42,9 @@
 .nav{
     display:flex;
     justify-content:flex-end;
-    line-height:60px;
+    line-height:86px;
     width:calc(1280px - 300px);
+    color:#fff;
 }
 .nav>li{
     margin-left:84px;
