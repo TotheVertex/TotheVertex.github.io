@@ -8,8 +8,8 @@
 }
 .intro_bg{
     background-image:url("a.jpg");
-    width:100%;
-    height:100%;
+    width:1920px;
+    height:1114px;
 }
 .header{
     display:flex;
