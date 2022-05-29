@@ -20,7 +20,7 @@
 .searchArea{
     width:300px;
     height:40px;
-    background:yellow;
+    background:#000;
     border-radius:8px;
     margin-top:24px;
 }
@@ -28,13 +28,13 @@
     border:none;
     width:250px;
     height:40px;
-    background:green;
-    color:blue;
+    background:#fff;
+    color:#000;
     padding-left:10px;
 }
 .searchArea > form > span{
     width:50px;
-    color:red;
+    color:#fff;/*검색*/
     font-weight:bold;
     cursor:pointer;
 
