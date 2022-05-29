@@ -6,10 +6,13 @@
     padding:0px;
     color:#000;
 }
+
 .intro_bg{
     background-image:url("a.jpg");
     width:1920px;
     height:1114px;
+    margin:0px;
+    padding:0px;
 }
 .header{
     display:flex;
