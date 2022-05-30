@@ -18,7 +18,7 @@ body{
 
 }
 
-.header {
+header {
   display: flex;
   width: 1280px;
   margin: 20px auto auto auto;
@@ -84,9 +84,7 @@ h4 {
   margin: 100px 320px auto 320px;
 }
 
-.footer > section {
-  margin: 100px auto auto auto;
-}
+
 
 .box1 {
   width: 1280px;
@@ -133,9 +131,23 @@ h4 {
   background: #0083CA;
 }
 
-.box3 {
+
+footer{
+  display: flex;
+  margin: 100px auto auto auto;
   width: 1920px;
   height: 100px;
   border: 1px solid #ED1164;
   background: #ED1164;
+  
+}
+
+footer > div:first-child{
+  flex: 1.75;
+  text-align: center;
+  color: #fff;
+}
+footer > div:last-child{
+  flex: 8.25;
+  color: #fff;
 }
