@@ -6,27 +6,37 @@
     padding:0px;
     color:#000;
 }
-.header{
+.hc
+{
     background:#75C3CF;
     width:1920px;
     margin:auto;
     height:86px;
     
 }
-.header1{
+.header
+{
   display:flex;
   width:1280px;
   margin:auto;
   height:86px;
 }
-.searchArea{
+
+h1{font-size:48px;}
+h4{font-size:20px;}
+
+.intro_text > h1,.intro_text > h4{color:#000;}
+
+.searchArea
+{
     width:300px;
     height:40px;
     background:#000;
     border-radius:8px;
     margin-top:24px;
 }
-.searchArea > form > input{
+.searchArea > form > input
+{
     border:none;
     width:250px;
     height:40px;
@@ -34,37 +44,37 @@
     color:#000;
     padding-left:10px;
 }
-.searchArea > form > span{
+.searchArea > form > span
+{
     width:50px;
     color:#fff;/*검색*/
     font-weight:bold;
     cursor:pointer;
 
 }
-.nav{
+.nav
+{
     display:flex;
     justify-content:flex-end;
     line-height:86px;
     width:calc(1280px - 300px);
     color:#fff;
 }
-.nav>li{
+.nav>li
+{
     margin-left:84px;
 }
-.nav > li > a {
+.nav > li > a 
+{
     color:#fff;
 }
-.intro_text{
+.main_subject{
     width:100%;
     margin: 115px auto 115px 320px;
 }
-h1{
-    font-size:48px;
-}
-h4{
-  font-size:20px;
-}
-.intro_text > h1,
-.intro_text > h4{
-    color:#000;
+.main_subject > section{
+    width:1280px;
+    height:601px;
+    border :1px solid #0066CC;
+    background:#0066CC;
 }
