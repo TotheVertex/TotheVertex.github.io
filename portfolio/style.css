@@ -77,13 +77,11 @@ h4 {
 }
 
 
-.main>section {
-  width: 100%;
+.main > section {
   margin: 100px 320px auto 320px;
 }
 
-.footer>section {
-  width: 100%;
+.footer > section {
   margin: 100px 320px auto 320px;
 }
 
