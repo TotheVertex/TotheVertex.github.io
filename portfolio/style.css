@@ -94,7 +94,7 @@ h4 {
 
 }
 
-.m_box1{
+.s_box1{
   width: 257.5px;
   height: 338px;
   margin: 50px 52.5px 50px 52.5px;
@@ -102,27 +102,28 @@ h4 {
   background: #fff;
 }
 
-.m_box2{
+.s_box2{
   width: 257.5px;
   height: 338px;
   margin: auto auto auto 310px;
   border: 1px solid #fff;
   background: #fff;
 }
-.m_box3{
+.s_box3{
   width: 257.5px;
   height: 338px;
   margin: auto auto auto 310px;
   border: 1px solid #fff;
   background: #fff;
 }
-.m_box4{
+.s_box4{
   width: 257.5px;
   height: 338px;
   margin: auto auto auto 310px;
   border: 1px solid #fff;
   background: #fff;
 }
+
 
 .box2 {
   width: 1280px;
@@ -131,6 +132,27 @@ h4 {
   background: #0083CA;
 }
 
+.c_box1{
+  width: 326px;
+  height: 400px;
+  margin: 100px 75.5px 100px 75.5px;
+  border: 1px solid #fff;
+  background: #fff;
+}
+.c_box2{
+  width: 326px;
+  height: 400px;
+  margin: auto auto auto 401.5px;
+  border: 1px solid #fff;
+  background: #fff;
+}
+.c_box3{
+  width: 326px;
+  height: 400px;
+  margin: auto auto auto 401.5px;
+  border: 1px solid #fff;
+  background: #fff;
+}
 
 footer{
   display: flex;
@@ -143,11 +165,12 @@ footer{
 }
 
 footer > div:first-child{
-  flex: 1.75;
+  flex: 3;
   text-align: center;
   color: #fff;
 }
+
 footer > div:last-child{
-  flex: 8.25;
+  flex: 9;
   color: #fff;
 }
