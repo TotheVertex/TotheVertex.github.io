@@ -3,75 +3,95 @@
     text-decoration: none;
     border-collapse: collapse;
     margin: 0px;
-    padding:0px;
-    color:#000;
+    padding: 0px;
+    color: #000;
 }
 .hc
 {
-    background:#75C3CF;
-    width:1920px;
-    margin:auto;
-    height:86px;
+    background: #86328C;
+    width: 1920px;
+    margin: auto;
+    height: 86px;
     
 }
 .header
 {
-  display:flex;
-  width:1280px;
-  margin:auto;
-  height:86px;
+  display: flex;
+  width: 1280px;
+  margin: auto;
+  height: 86px;
 }
 
-h1{font-size:48px;}
-h4{font-size:20px;}
+h1{ font-size: 48px; }
+h4{ font-size: 20px; }
 
-.intro_text > h1,.intro_text > h4{color:#000;}
+.intro_text > h1, .intro_text > h4{ color: #000; }
 
 .searchArea
 {
-    width:300px;
-    height:40px;
-    background:#000;
-    border-radius:8px;
-    margin-top:24px;
+    width: 300px;
+    height: 40px;
+    background: #000;
+    border-radius: 8px;
+    margin-top: 24px;
 }
 .searchArea > form > input
 {
-    border:none;
-    width:250px;
-    height:40px;
-    background:#fff;
-    color:#000;
-    padding-left:10px;
+    border: none;
+    width: 250px;
+    height: 40px;
+    background: #fff;
+    color: #000;
+    padding-left: 10px;
 }
 .searchArea > form > span
 {
-    width:50px;
-    color:#fff;/*검색*/
-    font-weight:bold;
-    cursor:pointer;
+    width: 50px;
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
 
 }
 .nav
 {
-    display:flex;
-    justify-content:flex-end;
-    line-height:86px;
-    width:calc(1280px - 300px);
-    color:#fff;
+    display: flex;
+    justify-content: flex-end;
+    line-height: 86px;
+    width: calc(1280px - 300px);
+    color: #fff;
 }
-.nav>li{margin-left:84px;}
+.nav > li{ margin-left: 84px; }
 
-.nav > li > a {color:#fff;}
-body > div{margin: 20px auto auto auto;}
-.main_subject{
-    width:100%;
+.nav > li > a { color: #fff; }
+body > div{ margin: 20px auto auto auto; }
+
+.main > section 
+{
+    width: 100%;
     margin: 100px auto auto 320px;
 }
-.subject_box{
-    width:1280px;
-    height:601px;
-    border :1px solid #99CCFF;
-    background:#99CCFF;
+.footer > section
+{
+    width: 100%;
+    margin: 100px auto auto 320px;
+}
 
+.box1{
+    width: 1280px;
+    height: 601px;
+    border: 1px solid #86328C;
+    background: #86328C;
+
+}
+.box2{
+    width: 1280px;
+    height: 601px;
+    border: 1px solid #0083CA;
+    background: #0083CA;
+}
+.box3{
+  width: 1280px;
+  height: 100px;
+  border: 1px solid #ED1164;
+  background: #ED1164;
 }
