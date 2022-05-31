@@ -188,7 +188,7 @@ h4 {
   background: #fff;
 }
 
-.c_box1 > img{
+.c_box1 > a > img{
   width: 226px;
   height: 300px;
   margin: 50px 50px 100px 50px; 
