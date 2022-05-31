@@ -153,14 +153,14 @@ h4 {
 .c_box2{
   width: 326px;
   height: 400px;
-  margin: auto auto auto 401.5px;
+  margin: -300px auto auto 401.5px;
   border: 1px solid #fff;
   background: #fff;
 }
 .c_box3{
   width: 326px;
   height: 400px;
-  margin: auto auto auto 401.5px;
+  margin: -300px auto auto 401.5px;
   border: 1px solid #fff;
   background: #fff;
 }
@@ -175,7 +175,7 @@ h4 {
 .c_box5{
   width: 326px;
   height: 400px;
-  margin: auto auto auto 401.5px;
+  margin: -300px auto auto 401.5px;
   border: 1px solid #fff;
   background: #fff;
 }
@@ -183,12 +183,12 @@ h4 {
 .c_box6{
   width: 326px;
   height: 400px;
-  margin: auto auto auto 401.5px;
+  margin: -300px auto auto 401.5px;
   border: 1px solid #fff;
   background: #fff;
 }
 
-.c_box1 > a > img{
+img{
   margin: 50px 13px 100px 13px; 
 }
 
