@@ -188,8 +188,8 @@ h4 {
   background: #fff;
 }
 
-c_box1 > a > img{
-  margin: 50px 50px 100px 50px; 
+.c_box1 > a > img{
+  margin: 50px 13px 100px 13px; 
 }
 
 
