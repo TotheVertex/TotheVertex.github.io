@@ -143,6 +143,7 @@ h4 {
   background: #0083CA;
 }
 
+.
 .c_box1{
   width: 326px;
   height: 400px;
@@ -153,21 +154,21 @@ h4 {
 .c_box2{
   width: 326px;
   height: 400px;
-  margin: -412.5px auto auto 401.5px;
+  margin: -500px auto auto 401.5px;
   border: 1px solid #fff;
   background: #fff;
 }
 .c_box3{
   width: 326px;
   height: 400px;
-  margin: -412.5px auto auto 401.5px;
+  margin: -500px auto auto 401.5px;
   border: 1px solid #fff;
   background: #fff;
 }
 .c_box4{
   width: 326px;
   height: 400px;
-  margin: 550px 75.5px 200px -801px;
+  margin: 500px 75.5px 200px -801px;
   border: 1px solid #fff;
   background: #fff;
 }
@@ -175,7 +176,7 @@ h4 {
 .c_box5{
   width: 326px;
   height: 400px;
-  margin: -450px auto auto 401.5px;
+  margin: -500px auto auto 401.5px;
   border: 1px solid #fff;
   background: #fff;
 }
@@ -183,15 +184,10 @@ h4 {
 .c_box6{
   width: 326px;
   height: 400px;
-  margin: -450px auto auto 401.5px;
+  margin: -500px auto auto 401.5px;
   border: 1px solid #fff;
   background: #fff;
 }
-
-img{
-  margin: 50px 13px 0px 13px; 
-}
-
 
 footer{
   display: flex;
