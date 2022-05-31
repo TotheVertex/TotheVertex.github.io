@@ -91,37 +91,45 @@ h4 {
   height: 450px;
   border: 1px solid #86328C;
   background: #86328C;
+  text-align: center;
 
+}
+.box1 > h2, .s_box1 > h2, .s_box2 > h2, .s_box3 > h2, .s_box4 > h2{
+    color: #fff;
 }
 
 .s_box1{
   width: 257.5px;
   height: 338px;
-  margin: 50px 52.5px 50px 52.5px;
+  margin: 30px 52.5px 50px 52.5px;
   border: 1px solid #fff;
-  background: #fff;
+  background: red;
+  text-align: center;
 }
 
 .s_box2{
   width: 257.5px;
   height: 338px;
-  margin: auto auto auto 310px;
+  margin: -33px 0px 0px 310px;
   border: 1px solid #fff;
-  background: #fff;
+  background: blue;
+  text-align: center;
 }
 .s_box3{
   width: 257.5px;
   height: 338px;
-  margin: auto auto auto 310px;
+  margin: -33px 0px 0px 310px;
   border: 1px solid #fff;
-  background: #fff;
+  background: green;
+  text-align: center;
 }
 .s_box4{
   width: 257.5px;
   height: 338px;
-  margin: auto auto auto 310px;
+  margin: -33px 0px 0px 310px;
   border: 1px solid #fff;
-  background: #fff;
+  background: purple;
+  text-align: center;
 }
 
 
